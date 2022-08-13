@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **noelcastillon1@gmail.com**
 
-- ⚡ Fun fact **I can clap real fast with just one hand!**
+- ⚡ Fun fact **I love to make candles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
