@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at **noelcastillon1@gmail.com**
 
-- 📌 If you're in central OH, join us every other Saturday for [Columbus Code & Coffee!](https://www.eventbrite.com/e/columbus-code-coffee-tickets-394085268647)
+- 📌 I organize [Columbus Code & Coffee](https://www.eventbrite.com/e/columbus-code-coffee-tickets-394085268647). All are welcome!
 
 - ⚡ Fun fact: **I love to make candles!**
 
