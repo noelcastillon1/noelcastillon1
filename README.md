@@ -3,11 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [https://noelcastillon.netlify.app/](https://noelcastillon.netlify.app/)
 
-- 📫 How to reach me **noelcastillon1@gmail.com**
+- 📫 You can reach me at **noelcastillon1@gmail.com**
 
 - 📌 If you're in central OH, join us every other Saturday for [Columbus Code & Coffee!](https://www.eventbrite.com/e/columbus-code-coffee-tickets-394085268647)
 
-- ⚡ Fun fact **I love to make candles!**
+- ⚡ Fun fact: **I love to make candles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
