@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at **noelcastillon1@gmail.com**
 
-- 📌 I organize [Columbus Code & Coffee](https://cbuscodencoffee.netlify.app/). All are welcome!
+- 📌 I organize [Columbus Code & Coffee](https://cbuscodencoffee.netlify.app/](https://cbuscodeandcoffee.com/). All are welcome!
 
 - ⚡ Fun fact: **I love to make candles!**
 
