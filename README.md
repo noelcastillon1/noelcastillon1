@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noel</h1>
-<h3 align="center">Software developer extraordinaire based in Central Ohio</h3>
+<h3 align="center">Software developer, founder, and community organizer based in Central Ohio</h3>
 
 - 👨‍💻 All of my projects are available at [https://noelcastillon.netlify.app/](https://noelcastillon.netlify.app/)
 
