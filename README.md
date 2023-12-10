@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **frontend development, startups, and food.**
 
-- 📫 How to reach me **noelcastillon1@gmail.com**
+- 📫 You can reach me at **noelcastillon1@gmail.com**
 
 - ⚡ Fun fact **I have a cat named Luna :)**
 
