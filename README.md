@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Sidewalk Sidekick!](https://sidewalksidekick.com/)
 
-- 👨‍💻 All of my projects are available at [https://noelcastillon.netlify.app/](https://noelcastillon.netlify.app/)
-
 - 💬 Ask me about **frontend development, startups, and food.**
 
 - 📫 You can reach me at **noelcastillon1@gmail.com**
